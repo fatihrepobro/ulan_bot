@@ -1,0 +1,13 @@
+{
+  "name": "ulan_bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": { "start": "node bot.js" },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.8",
+    "pino": "^8.17.2",
+    "qrcode-terminal": "^0.12.0",
+    "axios": "^1.7.4",
+    "moment-timezone": "^0.5.45"
+  }
+}
